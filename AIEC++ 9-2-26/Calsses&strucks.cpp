@@ -31,25 +31,3 @@ public:
 	}
 };
 
-int main()
-{
-	gameCharacter character;
-	character.name = "Lxven";
-	character.health = 100;
-	character.level = 10;
-	 
-	cout << "Character Name: " << character.name << endl;
-	cout << "Health: " << character.health << endl;
-	cout << "level:  " << character.level << endl;
-
-	BankAccount account;
-
-	account.setAccountNumber(1234);
-
-	account.deposit(200);
-	account.deposit(75);
-
-	cout << "account Balance: $" << account.getBalance() << endl;
-
-	return 0;
-}
