@@ -139,8 +139,10 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="array.cpp" />
     <ClCompile Include="Calsses&amp;strucks.cpp" />
     <ClCompile Include="Constructor.cpp" />
+    <ClCompile Include="Game Configuration.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="String Operator.cpp" />
   </ItemGroup>
