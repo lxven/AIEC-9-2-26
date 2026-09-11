@@ -18,10 +18,14 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< Updated upstream
     <ClCompile Include="Calsses&amp;strucks.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Constructor.cpp">
+=======
+    <ClCompile Include="dungeon crawler .cpp">
+>>>>>>> Stashed changes
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -139,8 +139,12 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+<<<<<<< Updated upstream
     <ClCompile Include="Calsses&amp;strucks.cpp" />
     <ClCompile Include="Constructor.cpp" />
+=======
+    <ClCompile Include="dungeon crawler .cpp" />
+>>>>>>> Stashed changes
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
